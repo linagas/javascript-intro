@@ -1,12 +1,2 @@
 
-
-
-
-
-
-console.log('Hola Mundo!!')
-
-
-
-
-
+console.log("Hi");
